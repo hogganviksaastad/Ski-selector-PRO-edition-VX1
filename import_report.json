@@ -1,0 +1,33 @@
+{
+  "build": "jonas-only-presets-v1",
+  "rows_total": 41,
+  "rows_from_updated_workbook": 41,
+  "excel_used_for": [
+    "ratings",
+    "comments",
+    "bestFor"
+  ],
+  "technical_data_source": "original repository geometry/link where available",
+  "visible_run_width_deleted": true,
+  "top3_structured_comments": true,
+  "winner_ability_chart": "fancy donut",
+  "turn_shape_radius_first": {
+    "Short": "< 15 m",
+    "Short-Medium": "15 - 16 m",
+    "Medium-Long": "> 16 m",
+    "Variable": "skis that can be manipulated into other turn shapes than their given radius"
+  },
+  "template_matches": 39,
+  "placeholder_geometry_inferred": [
+    "Head Rebels e-SL Pro",
+    "Dynastar M-Pro 85"
+  ],
+  "weight_sliders": true,
+  "weight_presets": [
+    "tuned",
+    "balanced",
+    "carving",
+    "allround",
+    "playful"
+  ]
+}
