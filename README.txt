@@ -14,8 +14,8 @@ Deployment:
 - Open the URL in Safari on iPhone.
 - Tap Share > Add to Home Screen.
 
-jonas-only-final-v4 changes:
-- Uses ONLY skis from Jonas ski rating_updated_atomic_redster_q9.xlsx.
+Work in progess_frequent updates might come:
+- Uses ONLY skis from Jonas ski rating_2026models frontside skis.xlsx.
 - Keeps technical ski data (geometry/link when available) from the original repository.
 - Uses Excel as ratings/comments source only.
 - Deletes the visible Run Width selection from the interface.
